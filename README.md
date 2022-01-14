@@ -1,6 +1,7 @@
 ### Hi there 👋
 I am a Civil Engineer specializing in geotechnical and environmental engineering.
 
+- 🔭 I’m currently working on climate models using python.
 <!--
 **loisendiritu/loisendiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
