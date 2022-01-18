@@ -1,6 +1,7 @@
 ### Hi, I'm Loise Nyambura 👋
 I am a Civil Engineer specializing in geotechnical and environmental engineering.
-![IMG_20180511_121112](https://user-images.githubusercontent.com/96653220/149927475-83a13780-88bc-44ba-ba6c-81475fc7afc0.jpg)
+
+![IMG_20180511_121112 (1)](https://user-images.githubusercontent.com/96653220/149928454-543027f1-5d93-401e-ba60-cced5332ea16.jpg)
 
 
 - 🔭 I’m currently working on climate models using python.
