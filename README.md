@@ -1,5 +1,5 @@
 ### Hi, I'm Loise Nyambura 👋
-I am a Civil Engineer specializing in geotechnical and environmental engineering. I 
+I am a Civil Engineer specializing in geotechnical and environmental engineering.
 
 ![IMG_20180511_121112 (1)](https://user-images.githubusercontent.com/96653220/149928454-543027f1-5d93-401e-ba60-cced5332ea16.jpg)
 
