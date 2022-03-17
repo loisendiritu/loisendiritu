@@ -5,6 +5,7 @@ I am a Civil Engineer specializing in geotechnical and environmental engineering
 
 
 - 🔭 I’m currently working on climate models using python.
+- 🌱 I’m currently learning software engineering through the ALX Software Engineering Programme
 <!--
 **loisendiritu/loisendiritu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
